@@ -26,4 +26,3 @@ def word_count(words):
 
 if __name__ == '__main__':
     write_kv_dict(word_count(read_kv_array(sys.stdin)))
-"reducer.py" 29L, 545C                                    8,1 
